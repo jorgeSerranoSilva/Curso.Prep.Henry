@@ -1,0 +1,29 @@
+body {
+    background-image: URL(https://gourmetdemexico.com.mx/wp-content/uploads/2020/08/menudo-origen.jpg;);
+    text-align: center;
+    align-items: center;
+    color: cornsilk;
+}
+
+h1 {
+    color: blue;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+
+#thirdDiv {
+    background-color: blueviolet;
+    margin: auto;
+    padding: 50px;
+    border: 1px solid black;
+    width: 500px;
+    height: 600px;
+}
+
+#img {
+    width: 400px;
+
+}
