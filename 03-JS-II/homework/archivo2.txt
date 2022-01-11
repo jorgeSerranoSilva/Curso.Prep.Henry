@@ -1,0 +1,15 @@
+FOR:
+
+El bucle for (por) en ingles, se forma de tres partes que se llaman expresiones. cada una con una funcion diferente, la primera sirve para iniciar o declarar el empiezo, la segunda sirve para detener las vueltas que da el ciclo. (si no se detiene existe el peligro de sobrellenar la memoria y destruirla). Y la ultima es para contar del modo que sea conveniente, ya sea hacia arriba ó para abajo (de manera invertida) 5, 4, 3, 2, 1, 0.
+
+&&:
+
+forma un simbolo que quiere decir Y (and) en ingles.
+
+||: 
+
+forma un simbolo que quiere decir Ó (or) en ingles, este Ó este otro.
+
+!: 
+
+otro simbolo que quiere decir no (not) en ingles, es una especie de negación pero no del todo, solo te lleva la contraria. O mas bien contradice lo que se ejecuta.

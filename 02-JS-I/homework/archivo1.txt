@@ -1,0 +1,28 @@
+VARIABLES: 
+
+Las variables son como cajitas donde guardas tricitos de codigo, donde tambien puedes crear otra caja y guardar varias cajitas hasta llegar a otra caja más gande.
+
+STRINGS; (cadenas):
+
+los strings son cadenas de texto encerradas entre comillas, dobles o simples, se puede decir que son frases ó palabras que sirven de expresion.
+
+FUNCIONES: 
+
+Las funciones son trocitos de codigo que sirven par ejecutar acciones del mismo codigo. Existen tres tipos de funcion, la primera se llama funcion declarada y tiene un nombre para identificarla, la segunda no tiene nombre y es llamada funcion anónima, casi siempre se guarda en una variable.
+pero la función principal es esa, funcionar. tambien se pueden pasar argumentos, los que sean nesesarios, las funciones tienen una propiedad llamada return que sirve para regresar informacion de la funcion.
+
+DECLARACION:
+
+Las declaraciones estan encerradas dentro de la funcion y como su nombre lo dice son declaraciones terminadas en punto y coma.
+
+RETURN: 
+return es lo que se espera recibir desde la funcion.
+
+DECLARACIONES IF:
+
+con condiciones de si una declaracion es cierta o de lo contrario es una declaracion falsa.
+
+VALORES BULEANOS:
+
+Los valores buleanos son solo dos: cierto o falso.
+
