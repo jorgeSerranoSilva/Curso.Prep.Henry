@@ -1,0 +1,5 @@
+ARRAYS / ARREGLOS / MATRICES:
+
+Los arreglos son como cajitas donde se pueden guardar cosas como datos de cualquier tipo, cadenas de texto, buleanos, numeros, simbolos, inclusive otros arreglos dentro de los arreglos,
+y se pueden modificar, pero no cambiar si estan dentro de una variable constante.
+Los arreglos tienen muchos metodos  y una propiedad llamada .length.
