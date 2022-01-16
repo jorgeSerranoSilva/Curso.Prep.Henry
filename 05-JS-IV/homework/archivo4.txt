@@ -1,0 +1,22 @@
+OBJETO:
+
+Como dicen, objeto es todo en JavaScript, pero en este caso, un objeto es un torzo de codigo donde se acumulan datos de una sola clase por ejemplo, persona, animal, o cosa.
+se compone proncipalmente de dos cosas, propiedad y valor, donde propiadad (kye) es el nombre con el que se puede acceder al valor (value), y existen dos formas de alcanzarlas: dot notation y bracket nptation.
+tambien se pueden combinar con funciones dentro del mismo objeto.
+Existen otros muchos metodos que conbinan dentro de este.
+
+PROPIEDADES:
+
+Las propiedades son lo que está mencionado en el articulo anterior, son el key/value una combinacion que nos ayuda a definir el objeto, se pueden usar todas las propiedades nativas de JavaScript, numbers, strings, booleans, inclusive undefined y null.
+
+METODOS:
+
+Los metodos son acciones que se llevan a cabo son toos verbos con un parentesis que sirve para  "pasar" declaraciones.
+
+BUCLE for...in.:
+
+El bucle for in es exclusivo del objeto _objeto_ ; sirve para recorrer todas las llaves y valores. es como el for comun que recorre cada uno de los componentes de in array.
+
+NOTACION DE PUNTOS VS NOTACION DE CIRCHETES:
+
+Las dos declaraciones sirven para llamar cualquiera de los elementos dentro de un objeto, solo que es mas facil usar la notacion de punto por su sintaxis más facil. Pero basicamente es lo mismo.
