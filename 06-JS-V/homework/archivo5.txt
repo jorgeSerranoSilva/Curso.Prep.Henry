@@ -1,0 +1,7 @@
+PROTOTYPE:
+
+prototipo es como quien dice la base de JavaScript, todo esta basado en objetos y prototipos que sirven como base para copiar argumentos, no entiendo muy bien lo que esta detras de JavaScript pero me estoy dando una idea. 
+
+CONSTRUCTOR:
+
+El constructor en las clases de JavaScript es para evitar el exeso de codigo y como consecuencia el ahorro de memoria, declarando un constructor, se le puede usar llamandolo muchas veces sin que se tenga que repetir los codigos.
